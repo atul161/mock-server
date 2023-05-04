@@ -1,0 +1,57 @@
+{
+  "data": [
+  {
+    "number": "+917717703727",
+    "number_name": "Atul",
+    "call_type": "MISSED",
+    "time": "just now"
+  },
+  {
+    "number": "+91771773723",
+    "number_name": "Kishan",
+    "call_type": "MISSED",
+    "time": "just now"
+  },
+  {
+    "number": "+917717724323",
+    "number_name": "Vishnu",
+    "call_type": "OUTBOUND",
+    "time": "16 hours ago",
+    "callTimeInSecond": 120
+  },
+  {
+    "number": "+91771773723",
+    "number_name": "Ram",
+    "call_type": "OUTBOUND",
+    "time": "4 days ago"
+  },
+  {
+    "number": "+917717724323",
+    "number_name": "Laksh Man",
+    "call_type": "INBOUND",
+    "time": "5 days ago",
+    "callTimeInSecond": 50
+  },
+  {
+    "number": "+917717724323",
+    "number_name": "LakshMan K",
+    "call_type": "INBOUND",
+    "time": "5 days ago",
+    "callTimeInSecond": 50
+  },
+  {
+    "number": "+917717724323",
+    "number_name": "Laksh Man R",
+    "call_type": "INBOUND",
+    "time": "5 days ago",
+    "callTimeInSecond": 400
+  },
+  {
+    "number": "+917717724323",
+    "number_name": "Ram Kumar Yadav",
+    "call_type": "INBOUND",
+    "time": "5 days ago",
+    "callTimeInSecond": 400
+  }
+]
+}
